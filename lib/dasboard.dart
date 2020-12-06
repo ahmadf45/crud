@@ -126,7 +126,7 @@ class _DashboardState extends State<Dashboard> {
                 size: 28,
               ),
             ),
-            Text('to int :' + tglInt.toString()),
+            Text('to int asd:' + tglInt.toString()),
             Text('contoh :' + c3.toString()),
             Text('test :' + c4),
             Row(
